@@ -45,7 +45,8 @@ To run this chatbot locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/your-username/intent-based-chatbot.git
+git clone https://github.com/Hafsana55/intentschatbot.git
+
 cd intent-based-chatbot
 
 Install the required dependencies:
